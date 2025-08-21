@@ -53,15 +53,5 @@ Add screenshots or GIF demos of your app UI here.
 
 ---
 
-## 🚀 Deployment
-
-The app can be deployed using:  
-
-- **Frontend:** Vercel / Netlify  
-- **Backend:** Render / Heroku  
-- **Database:** MongoDB Atlas  
-
----
-
 <p align="center">✨ Built with ❤️ using the MERN stack ✨</p>
 
