@@ -50,6 +50,14 @@ and exchange messages instantly with a clean, modern UI.
 <p align="center">
 Add screenshots or GIF demos of your app UI here.
 </p>
+Login Page
+<img width="1800" height="835" alt="loginchat" src="https://github.com/user-attachments/assets/7cec47d0-520c-4dc9-a815-d295296bbce9" />
+
+Homepage
+<img width="1768" height="833" alt="home" src="https://github.com/user-attachments/assets/3a7f91a2-becb-4a30-8d9c-fe0e501f3e75" />
+
+ChatInterface
+<img width="1335" height="832" alt="chating" src="https://github.com/user-attachments/assets/840b2566-32ba-4d87-95de-e478c87a8a1a" />
 
 ---
 
