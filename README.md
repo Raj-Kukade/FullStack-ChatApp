@@ -26,9 +26,9 @@ and exchange messages instantly with a clean, modern UI.
 ## 🛠️ Tech Stack
 
 **Frontend**  
-- **React.js** (Hooks + Context API / Redux)  
+- **React.js** (Hooks + Context API)  
 - **Axios** (API calls)  
-- **TailwindCSS** / **Material UI** (modern UI styling)  
+- **TailwindCSS** / **Daisy UI** (modern UI styling)  
 
 **Backend**  
 - **Node.js** + **Express.js** (REST API)  
@@ -39,8 +39,8 @@ and exchange messages instantly with a clean, modern UI.
 - **MongoDB** (with **Mongoose** ODM)  
 
 **Deployment**  
-- **Frontend:** Vercel / Netlify  
-- **Backend:** Render / Heroku  
+- **Frontend:** Render   
+- **Backend:** Render   
 - **Database:** MongoDB Atlas  
 
 ---
